@@ -1,6 +1,6 @@
 
-Proyecto AGUA A&P: Sistema de Gestión en PHP y MySQL
-AGUA A&P es un sistema web en PHP/MySQL que automatiza procesos, desde pedidos hasta reportes. Eficiente para empresas de servicios.
+Proyecto AGUA A&P: Sistema de Gestión en PHP y MySQL.
+Es un sistema web en PHP/MySQL que automatiza procesos, desde pedidos hasta reportes. Eficiente para empresas de servicios.
 # Características Principales
 - Gestión de pedidos y entregas de agua.
 - Facturación y control de clientes.
